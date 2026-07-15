@@ -148,7 +148,7 @@ locals {
 
   mod_tags = merge(
     var.base_tags,
-    { manager = "Tony Wlaker v1.0.5"}
+    { manager = "Sarah Roberts v1.0.6"}
   )
 
 }
