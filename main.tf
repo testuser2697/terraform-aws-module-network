@@ -1,8 +1,8 @@
 resource "terraform_data" "module_version" {
   input = {
     module  = "network"
-    version = "1.0.2"
-    change  = "network module version 1.0.2 release"
+    version = "1.0.3"
+    change  = "network module version 1.0.3 release"
   }
 }
 
